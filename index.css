@@ -1,0 +1,20 @@
+ul li {
+    
+    padding: 10px;
+    display: inline-flex;
+    list-style-type: none;
+    font-size: 15px;
+    padding-left: 300px;
+    
+} 
+
+
+.navbar
+{
+    background-color: rgb(172, 177, 176);
+}
+
+.box1{
+    border-color:solid blue
+}
+
